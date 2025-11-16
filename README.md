@@ -5,13 +5,16 @@ Draw a straight line with two points according to a certain regular movement, th
 </div>
 
 ## 📝 Specifications
-* **
-📦 **Package:** io.th.magicline
-💾 **Size:** 11.83 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-11-09 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v5.2.1</mark></small>
+* **<br>
+📦 **Package:** io.th.magicline<br>
+💾 **Size:** 11.83 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-11-09 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v5.2.1</mark></small><br>
+
+## Demo
+
 
 ## Blocks
 
