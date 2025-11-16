@@ -15,6 +15,20 @@ Draw a straight line with two points according to a certain regular movement, th
 
 ## Demo
 
+<img width="1052" height="612" alt="Demo-blocks" src="https://github.com/user-attachments/assets/d513ebfd-6f83-4528-ba27-6679bdcfb5c2" />
+
+![M1](https://github.com/user-attachments/assets/bf57d6fb-37bb-4940-b90b-37a83c887337)
+![M2](https://github.com/user-attachments/assets/a1be660a-2d38-4a3d-aea1-07461ee51c60)
+![M3](https://github.com/user-attachments/assets/78b71476-73ba-485e-82b7-b693422f786f)
+
+![photo_2025-11-16_17-16-26](https://github.com/user-attachments/assets/7a2e1895-7a57-417f-98a1-ad402821fc2d)
+![photo_2025-11-16_17-16-21](https://github.com/user-attachments/assets/97bd6f6a-859d-4ccd-b1b0-1ca92d4fb584)
+![photo_2025-11-16_17-15-54](https://github.com/user-attachments/assets/d866200e-b485-41cb-9d25-1e548eb34cf2)
+![photo_2025-11-16_17-16-58](https://github.com/user-attachments/assets/d1eb9066-e563-4126-8e5b-ea13b27830b8)
+![photo_2025-11-16_17-16-54](https://github.com/user-attachments/assets/5e1a38b4-7c59-4eb7-b8da-ef27281ebed3)
+![photo_2025-11-16_17-16-45](https://github.com/user-attachments/assets/283811f8-aa76-4765-b927-6952ca677eaf)
+![photo_2025-11-16_17-16-39](https://github.com/user-attachments/assets/a6f919f5-b83c-4b81-8d9a-d3b45674b0e2)
+![photo_2025-11-16_17-16-33](https://github.com/user-attachments/assets/485632a3-e07a-4cb5-ba34-23d5d7abb33c)
 
 ## Blocks
 
